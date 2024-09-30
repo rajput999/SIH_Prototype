@@ -1,0 +1,7 @@
+Flask==2.3.2
+pandas==2.0.3
+fuzzywuzzy==0.18.0
+python-levenshtein==0.12.2
+phonetics==1.0.5
+indic-transliteration==1.9.4
+numpy==1.24.4
