@@ -5,3 +5,4 @@ python-levenshtein==0.12.2
 phonetics==1.0.5
 indic-transliteration==1.9.4
 numpy==1.24.4
+gunicorn==20.1.0 
